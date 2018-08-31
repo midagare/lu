@@ -1,0 +1,44 @@
+Qué aprendí hoy:
+aprendí a imprimir en pantalla y algunas caracteristicas (ln,\n)
+crear objetos asignarles valores a atributos ,modificarlos y  llamarlos 
+Paso de parámetros en main else if, según el argumento
+excepciones 
+atributos privadas, que sirven para imponer filtros, y que hacer para poder llamarlas(gettter and setters)
+que al no requerir el tipo de variable se pone "void"
+al declarar una variable (los objetos también son variables) se crea un espacio en memoria 
+a usar un cliclo for 
+Ejercicio:
+pasarle int n
+imprimir n=5
+*****
+****
+***
+**
+*
+
+    *
+   **
+  ***
+ ****
+*****
+
+que asignar un nombre nuevo a una variable no significa crear una nueva (crear alias, no objetos) [no aplica para los primitivos] 
+clonar una variable es crear una nueva identica que puede ser modificada independientemente 
+
+
+
+
+
+Investigar tipos de datos primitivos en java
+Operadores lógicos
+Ciclos for, while, do/while
+sentancias de control: if, switch
+
+Has un programa que multiplique matrices
+Has un programa que resuelva ecuaciones lineales de 2x2 y de 3x3
+
+
+
+30/07/2018
+al correr un programa ifinito lo pares con crl+c
+al programar para salir de un bucle infinito haces un break
